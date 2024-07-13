@@ -1,0 +1,14 @@
+    [s3]
+url = "https://your-s3-bucket-url"
+bucket = "your-bucket-name"
+destination_folder = "/tmp"
+file_name = "your-file-name"
+local_file_path = "/tmp/your-file-name"
+
+    [snowflake]
+warehouse = "your-warehouse-name"
+database = "your-database-name"
+schema = "your-schema-name"
+table = "your-table-name"
+role = "your-role-name"
+stage_name = "your-stage-name"
