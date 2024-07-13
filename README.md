@@ -1,4 +1,4 @@
-# Lambda Function For Data Pipeline Project
+# Lambda Function For Data Ingestion Stage of Data Pipeline
 
 ## Overview
 This project implements the initial stage of a data pipeline that ingests data from an S3 bucket, processes it using a Lambda function, and uploads it to a Snowflake database. It includes environment configuration, modular code, and automation scripts for setup and execution.
