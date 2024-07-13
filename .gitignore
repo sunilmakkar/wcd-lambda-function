@@ -1,0 +1,14 @@
+# Files to ignore
+.env
+config.toml
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+*.egg-info/
+
+# Logs
+*.log
