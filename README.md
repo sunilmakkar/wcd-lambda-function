@@ -24,8 +24,8 @@ This project implements the initial stage of a data pipeline that ingests data f
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/sunilmakkar/wcd-lambda-function.git>
+   cd <wcd-lambda-function>
    ```
 
 2. **Create and Activate Virtual Environment**:
